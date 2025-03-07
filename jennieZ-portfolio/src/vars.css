@@ -1,0 +1,16 @@
+:root {
+  /* color */
+  --color-text: #f7f0f5;
+  --color-primary: #decbb7;
+  --color-secondary: #5c5552;
+  --color-dark: #433633;
+  --color-bg: #cea4b9;
+
+  /* font */
+  --font-primary: "Outfit", sans-serif;
+  --font-secondary: "Outfit", sans-serif;
+  --font-size: 1rem;
+  --font-weight: 400;
+  --line-height: 1.5;
+  --letter-spacing: 0.1rem;
+}
