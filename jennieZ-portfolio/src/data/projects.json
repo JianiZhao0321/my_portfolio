@@ -1,26 +1,35 @@
 [
   {
-    "title": "Project A",
+    "title": "ESS 2023 & 2025 Data Analysis",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Compared Georgetown ESS 2023 vs. 2025 to highlight shifts in engagement, services, and wellbeing; built reproducible R pipeline and gt tables.",
+    "skills": ["R", "Tidyverse", "gt", "Data Cleaning", "Visualization"],
+    "demo": "Coming Soon"
   },
   {
-    "title": "Project B",
+    "title": "UN Impact on Darfur Peace Project",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Evaluated the UN Peacebuilding Fund's impact on peace and development in Darfur through gender-disaggregated analysis and causal forest modeling; conducted robust statistical testing and policy interpretation.",
+    "skills": [
+      "Stata",
+      "R",
+      "Causal Forest",
+      "Impact Evaluation",
+      "Data Visualization"
+    ],
+    "source": "https://github.com/JianiZhao0321/UN-Intervention-Analysis"
   },
   {
-    "title": "Project C",
+    "title": "House Price Prediction",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Developed a machine learning model to predict house prices using regression techniques; performed feature engineering, model tuning, and evaluation for high accuracy.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "Scikit-learn",
+      "Data Cleaning",
+      "Machine Learning"
+    ],
+    "source": "https://github.com/JianiZhao0321/house_price_prediction"
   }
 ]
